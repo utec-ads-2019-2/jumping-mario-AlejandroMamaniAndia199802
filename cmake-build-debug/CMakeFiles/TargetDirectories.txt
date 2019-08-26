@@ -1,0 +1,3 @@
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/jumping-mario-AlejandroMamaniAndia199802/cmake-build-debug/CMakeFiles/LaTex.dir
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/jumping-mario-AlejandroMamaniAndia199802/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/jumping-mario-AlejandroMamaniAndia199802/cmake-build-debug/CMakeFiles/rebuild_cache.dir
